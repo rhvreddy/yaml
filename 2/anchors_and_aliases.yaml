@@ -1,0 +1,10 @@
+#Anchor(&) defines reusable data
+#Alias(*) references the anchor
+
+default:  &default_settings
+  timeout:  30
+  retries:  5
+
+server1:
+  <<:  *default_settings
+  timeout:  60  #Override value

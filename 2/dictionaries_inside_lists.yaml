@@ -1,0 +1,12 @@
+employees:
+  -  name:  harsha
+     role:  devops
+     skills:
+       -  AWS
+       -  Docker
+
+  -  name:  reddy
+     role:  manager
+     skills:
+       -  leadership
+       -  communication

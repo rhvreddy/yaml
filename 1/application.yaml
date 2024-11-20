@@ -1,0 +1,20 @@
+## bacis application
+app_settings:
+  theme: dark
+  language: en
+  notifications: true
+
+## Fictional product
+
+products:
+  - name: Laptop
+    price: 1200
+    specs:
+      - RAM: 16GB
+      - Processor: Intel i7
+  - name: Smartphone
+    price: 800
+    specs:
+      - RAM: 8GB
+      - Processor: Snapdragon 888
+

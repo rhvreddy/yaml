@@ -1,0 +1,36 @@
+##Indentation
+  key:  value
+
+#comment
+
+  key:  value ## This is an inline comment
+
+#Case sensitivity
+
+  key:  Value
+  Key:  value # These are two different keys
+
+
+#Key-Value pairs
+
+  key:  value
+  #Example
+
+  name:  harsha
+  age:  23
+
+#Lists
+
+  fruits:
+    -  Apple
+    -  Orange
+    -  Banana
+
+#Dictionaries (Maps):
+
+  person:
+    name:  Alice
+    age:  30
+    address:
+      street:  123  Main  St
+      city:  Wonderland

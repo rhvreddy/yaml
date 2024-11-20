@@ -1,0 +1,12 @@
+#Literal Block (|): Preserves line breaks.
+
+description: |
+  This is a multi-line
+  string with preserved
+  line breaks.
+
+#Folded Block (>): Collapses into a single line.
+
+description: >
+  This is a folded
+  multi-line string.

@@ -1,0 +1,20 @@
+## Personal info
+
+  name:  Harsha
+  age:  23
+  active:  true
+
+#List of Hobbies
+
+  hobbies:
+    -  Reading
+    -  Traveling
+    -  Coding
+
+#User profile (Nested Dictionary)
+
+  user:
+    name:  Reddy
+    details:
+      age:  24
+      location: New York
