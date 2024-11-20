@@ -1,0 +1,13 @@
+projects:
+  - name: Project A
+    team:
+      - name: Alice
+        role: Developer
+      - name: Bob
+        role: Tester
+  - name: Project B
+    team:
+      - name: Carol
+        role: Manager
+      - name: Dave
+        role: Analyst

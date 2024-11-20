@@ -1,0 +1,10 @@
+app_config:
+  version: 1.0
+  environment: production
+  databases:
+    - name: primary
+      host: db1.example.com
+      port: 5432
+    - name: backup
+      host: db2.example.com
+      port: 5432
