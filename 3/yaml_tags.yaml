@@ -1,0 +1,15 @@
+# Strings as Explicit tags:
+
+custom_string:  !!str  12345  #Forces the value to be a string
+
+#Timestamps:
+
+created_at:  !!timestamp  2024-11-20
+
+#Binary Data:
+
+binary_data:  !!binary  |
+  VGhpcyBpcyBhIGJhc2U2NCBlbmNvZGVkIHN0cmluZw==
+
+
+

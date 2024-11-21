@@ -1,0 +1,6 @@
+import yaml
+
+with open("config.yaml", "r") as file:
+    data = yaml.safe_load(file)
+    if not data.get("app"):
+        raise ValueError("Missing 'app' key in configuration")

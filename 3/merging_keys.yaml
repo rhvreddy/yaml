@@ -1,0 +1,7 @@
+defaults:
+  timeout: 30
+  retries: 3
+
+service1:
+  <<: *defaults
+  timeout: 60

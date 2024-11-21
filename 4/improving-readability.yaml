@@ -1,0 +1,4 @@
+# Web application deployment configuration
+app:
+  name: my-app
+  environment: production

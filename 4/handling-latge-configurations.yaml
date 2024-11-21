@@ -1,0 +1,16 @@
+#app-config.yaml
+
+app:
+  name: my-app
+  version: 1.0.0
+
+
+#database-config.yaml
+
+database:
+  host: db.example.com
+  port: 5432
+  user: admin
+
+# yamllint config.yaml
+
