@@ -1,0 +1,9 @@
+ #You can add comments to provide explanations, notes, or context within the YAML file. Comments are ignored by parsers and are meant for human readers to better understand the content.
+
+
+ # This is my first comment ==> This called as single line comment
+
+
+# This is called as multi-line comment
+ # This is my prometheus configuration file
+ # hey there

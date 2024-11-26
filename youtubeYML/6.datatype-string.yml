@@ -1,0 +1,7 @@
+# In YAML, strings are used to represent textual data. Strings can contain alphanumeric characters, special symbols, and even newline characters for multiline strings. They are commonly used to store configuration settings, textual information, and other human-readable data.
+
+# 1. Basic string
+#name: "Harsha reddy"
+
+name:  "harsha reddy"
+company: 'xyz'  # we can pass strings by using (''or "")

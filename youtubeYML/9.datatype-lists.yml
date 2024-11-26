@@ -1,0 +1,35 @@
+# In YAML, lists (also known as arrays) are used to store ordered sequences of values. Lists can contain values of various data types,including strings, numbers, booleans, and even nested structured like other lists or dictionaries. Lists are a fundamental way to represent collections of items in Yaml.
+
+#Lists in YAML are represented using square brackets [ ], and the values within the list are separated by commas.
+
+#simple list of strings:
+
+fruits:
+  - apple
+  - banana
+  - orange
+
+students:
+  - harsha
+  - vardhan
+  - reddy
+
+# List of numbers
+
+numbers: [1,2,3,4,5]
+
+# mixed data type
+
+class:
+  - harsha
+  - 23
+  - 7
+
+# nested data types
+
+group:
+  - [2,3,4]
+  - [89,63,73]
+  - [78,38,98]
+
+

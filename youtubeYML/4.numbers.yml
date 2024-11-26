@@ -1,0 +1,5 @@
+## In YAML,numbers are used to represent numerical values. YAML supports both integer and floating-point numbers. Numbers can be positive or negative and can be expressed in decimal, octal, or hexadecimal formats.
+
+name: harsha
+age: 23  ## This called as a integer
+percent of marks: 99.07  ## this called as a floating-point number

@@ -1,0 +1,9 @@
+# nested dictionaries
+
+company:
+  name: XYZ
+  employees:
+    - name: harsha
+    - role: dev
+    - name: reddy
+    - role: devops

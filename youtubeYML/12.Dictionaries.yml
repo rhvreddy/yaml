@@ -1,0 +1,4 @@
+# Dictionaries in YAML, also known as maps, are used to store collections of key-value pairs. These key-value pairs allow you to represent structured data in a way that's easy to read and understand. Dictionaries are particularly useful when you to organize data with named fields.
+
+# In YAML, dictionaries are represented using curly braces {}. The keys are followed by a colon : and the associated value.
+

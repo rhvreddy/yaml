@@ -1,0 +1,27 @@
+# Multiline string (using the | or > indicator):
+
+#description: |
+#  This is a multiline
+#  string that preserves
+#  line breaks.
+
+# Escaped characters:
+#escaped_string: "The string has a\"quoted"\ word."
+
+# special characters:
+#special_characters: "Hello, \n YAML!"
+
+# Unquoted strings (without special characters):
+#unquoted_string: Hello World
+
+
+multiline_string_literal: |
+  This is a multilinr_string_literal
+  we are doing practice
+  to write literal multiline string
+
+multiline string folded: >
+  This is just a folded multiline
+  stringvalue
+  anything
+  what we want to write

@@ -1,0 +1,6 @@
+  # Key-value pairs in YAML are often used to define configuration settings, data structures, or any other kind of structured information.
+
+  name:  harsha  ## This data is called as keyvaluepair
+  age: 23
+  class: null
+  city: vizag

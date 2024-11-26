@@ -1,0 +1,10 @@
+# In YAML, the null value represents the absence of a value or an undefined state. It is often used to indicate that a certain property or filed is intentionally empty or has no value assigned to it. In many programming languages and data structures.
+
+#key: null
+#name: vipin
+#age: null #No age provided or age is not applicable
+
+name: harsha
+city: vizag
+company: null
+age: null

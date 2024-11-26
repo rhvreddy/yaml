@@ -1,0 +1,28 @@
+# In YAML, dictionaries (also knows as maps, objects, or associative arrays) are used to store collections of key-value pairs. Dictionaries allow you to associate keys with corresponding values, similar to how objects work in programming languages. Dictionaries are a powerful way to represent structured data with named fields.
+
+# Dictionaries in YAML are represented using key-value pairs within curly braces ( ). The keys are stings, and they are followed by a colon ; and the associated value.
+
+# Simple dictionaries
+person:
+  name: harsha
+  age: 23
+  profession: eng
+  city: vizag
+
+# nested dictionaries
+
+person:
+  name: harsha
+  age: 21
+  std: 12th
+  subject:
+    - math
+    - physics
+
+
+# mixed data type dictionaries
+
+configuration:
+  server: dev
+  port: 8000
+  stage: deploy

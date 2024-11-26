@@ -1,0 +1,10 @@
+# In YAML, boolean values represent the concept of true or false. Boolean values are often used to express conditions, options, or states in configuration files, data structures, and other contexts.
+#Boolean values in YAML are represented using the following syntax:
+# . true: Represents the true value.
+# . false: Represents the false value.
+
+deploy: true  ## here in this case it will deploy, because as we gave "true"
+test: false  ## here in this case it will not test, because as we have "false"
+
+active: true
+admin: false
